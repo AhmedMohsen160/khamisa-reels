@@ -94,5 +94,17 @@
   "duration": "1:11",
   "aspect": "9:16",
   "url": "https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/yaqaza/reel-11.mp4"
+ },
+ {
+  "id": "yaqaza-ep02",
+  "series": "منزلة اليقظة",
+  "type": "full-episode",
+  "episode": 2,
+  "title": "كيف يستيقظ القلب؟ مراتب اليقظة الثلاث | منزلة اليقظة (٢) — مدارج السالكين",
+  "duration": "24:04",
+  "aspect": "16:9",
+  "url": "https://media.githubusercontent.com/media/AhmedMohsen160/khamisa-reels/main/episodes/yaqaza-ep02.mp4",
+  "thumbnail": "https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/episodes/yaqaza-ep02-thumbnail.jpg",
+  "subtitles_ar": "https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/episodes/yaqaza-ep02.ar.srt"
  }
 ]

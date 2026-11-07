@@ -20,3 +20,13 @@
 | 09 | كن في الدنيا كأنك غريب.. أو عابر سبيل | 0:43 | https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/yaqaza/reel-09.mp4 |
 | 10 | امرأة تبكي ابنها الذي مات.. وعمره ٣٠٠ عام! | 1:15 | https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/yaqaza/reel-10.mp4 |
 | 11 | لماذا خلقك الله؟ هنا تبدأ اليقظة | 1:11 | https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/yaqaza/reel-11.mp4 |
+
+
+## الحلقات الكاملة (16:9)
+
+| الحلقة | العنوان | المدة | الرابط |
+|---|---|---|---|
+| 02 | كيف يستيقظ القلب؟ مراتب اليقظة الثلاث | 24:04 | https://media.githubusercontent.com/media/AhmedMohsen160/khamisa-reels/main/episodes/yaqaza-ep02.mp4 |
+
+- الصورة المصغّرة: https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/episodes/yaqaza-ep02-thumbnail.jpg
+- الترجمة العربية (SRT): https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/episodes/yaqaza-ep02.ar.srt
