@@ -115,6 +115,16 @@
     "aspect": "16:9",
     "url": "https://media.githubusercontent.com/media/AhmedMohsen160/khamisa-reels/main/episodes/yaqaza-ep02.mp4",
     "thumbnail": "https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/episodes/yaqaza-ep02-thumbnail.jpg",
-    "subtitles_ar": "https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/episodes/yaqaza-ep02.ar.srt"
+    "subtitles_ar": "https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/episodes/yaqaza-ep02.ar.srt",
+    "graded_parts": [
+      "https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/graded/ep02/part-00.bin",
+      "https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/graded/ep02/part-01.bin",
+      "https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/graded/ep02/part-02.bin",
+      "https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/graded/ep02/part-03.bin",
+      "https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/graded/ep02/part-04.bin",
+      "https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/graded/ep02/part-05.bin"
+    ],
+    "graded_sha256": "8d10b716a9d23dd56e52993de5934c6dee4994c4cb3d2b86501273a7190956b2",
+    "graded_note": "الحلقة الملوّنة مقسّمة إلى أجزاء (أقل من 100 ميجا لكل جزء) تُجمع بالترتيب: cat part-0*.bin > yaqaza-ep02-graded.mp4"
   }
 ]
