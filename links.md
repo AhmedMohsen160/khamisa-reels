@@ -30,3 +30,26 @@
 
 - الصورة المصغّرة: https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/episodes/yaqaza-ep02-thumbnail.jpg
 - الترجمة العربية (SRT): https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/episodes/yaqaza-ep02.ar.srt
+
+
+# ريلز «صناعة ثغر» — محاضرة للشباب
+
+- العدد: 15 ريل · 1080×1920 (9:16) · MP4 / H.264 + AAC
+
+| # | العنوان | المدة | الرابط المباشر |
+|---|---|---|---|
+| 01 | لماذا يقولون: أنت السلعة؟ | 1:12 | https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-01.mp4 |
+| 02 | لماذا لا تنتهي الشاشة أبدًا؟ | 0:52 | https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-02.mp4 |
+| 03 | ما ثغرُك الذي تقف عليه؟ | 1:05 | https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-03.mp4 |
+| 04 | غمسةٌ واحدة تُنسيك كل شيء | 1:39 | https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-04.mp4 |
+| 05 | كيف تُغبَن في أغلى ما تملك؟ | 0:51 | https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-05.mp4 |
+| 06 | حدِّثني عن جدولك اليومي | 0:53 | https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-06.mp4 |
+| 07 | لماذا تبدو العادات مملّة؟ | 0:45 | https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-07.mp4 |
+| 08 | هل يجتمع الهاتف والكتاب؟ | 0:51 | https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-08.mp4 |
+| 09 | ما المفاجأة التي أعدّها الله لك؟ | 0:56 | https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-09.mp4 |
+| 10 | هل تعرف متى تنتهي المباراة؟ | 0:53 | https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-10.mp4 |
+| 11 | ما تبنيه في شبابك.. يبقى معك | 1:10 | https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-11.mp4 |
+| 12 | هل تأخّر عليك الفتح؟ | 1:02 | https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-12.mp4 |
+| 13 | هل بوصلتك مضبوطة؟ | 1:11 | https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-13.mp4 |
+| 14 | إلى أين يتّجه قطارك؟ | 0:54 | https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-14.mp4 |
+| 15 | اعتمد الوقت.. لا النتيجة | 0:43 | https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-15.mp4 |

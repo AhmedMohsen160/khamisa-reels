@@ -126,5 +126,125 @@
     ],
     "graded_sha256": "8d10b716a9d23dd56e52993de5934c6dee4994c4cb3d2b86501273a7190956b2",
     "graded_note": "الحلقة الملوّنة مقسّمة إلى أجزاء (أقل من 100 ميجا لكل جزء) تُجمع بالترتيب: cat part-0*.bin > yaqaza-ep02-graded.mp4"
+  },
+  {
+    "id": "thaghr-01",
+    "series": "صناعة ثغر",
+    "title": "لماذا يقولون: أنت السلعة؟",
+    "duration": "1:12",
+    "aspect": "9:16",
+    "url": "https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-01.mp4"
+  },
+  {
+    "id": "thaghr-02",
+    "series": "صناعة ثغر",
+    "title": "لماذا لا تنتهي الشاشة أبدًا؟",
+    "duration": "0:52",
+    "aspect": "9:16",
+    "url": "https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-02.mp4"
+  },
+  {
+    "id": "thaghr-03",
+    "series": "صناعة ثغر",
+    "title": "ما ثغرُك الذي تقف عليه؟",
+    "duration": "1:05",
+    "aspect": "9:16",
+    "url": "https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-03.mp4"
+  },
+  {
+    "id": "thaghr-04",
+    "series": "صناعة ثغر",
+    "title": "غمسةٌ واحدة تُنسيك كل شيء",
+    "duration": "1:39",
+    "aspect": "9:16",
+    "url": "https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-04.mp4"
+  },
+  {
+    "id": "thaghr-05",
+    "series": "صناعة ثغر",
+    "title": "كيف تُغبَن في أغلى ما تملك؟",
+    "duration": "0:51",
+    "aspect": "9:16",
+    "url": "https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-05.mp4"
+  },
+  {
+    "id": "thaghr-06",
+    "series": "صناعة ثغر",
+    "title": "حدِّثني عن جدولك اليومي",
+    "duration": "0:53",
+    "aspect": "9:16",
+    "url": "https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-06.mp4"
+  },
+  {
+    "id": "thaghr-07",
+    "series": "صناعة ثغر",
+    "title": "لماذا تبدو العادات مملّة؟",
+    "duration": "0:45",
+    "aspect": "9:16",
+    "url": "https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-07.mp4"
+  },
+  {
+    "id": "thaghr-08",
+    "series": "صناعة ثغر",
+    "title": "هل يجتمع الهاتف والكتاب؟",
+    "duration": "0:51",
+    "aspect": "9:16",
+    "url": "https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-08.mp4"
+  },
+  {
+    "id": "thaghr-09",
+    "series": "صناعة ثغر",
+    "title": "ما المفاجأة التي أعدّها الله لك؟",
+    "duration": "0:56",
+    "aspect": "9:16",
+    "url": "https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-09.mp4"
+  },
+  {
+    "id": "thaghr-10",
+    "series": "صناعة ثغر",
+    "title": "هل تعرف متى تنتهي المباراة؟",
+    "duration": "0:53",
+    "aspect": "9:16",
+    "url": "https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-10.mp4"
+  },
+  {
+    "id": "thaghr-11",
+    "series": "صناعة ثغر",
+    "title": "ما تبنيه في شبابك.. يبقى معك",
+    "duration": "1:10",
+    "aspect": "9:16",
+    "url": "https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-11.mp4"
+  },
+  {
+    "id": "thaghr-12",
+    "series": "صناعة ثغر",
+    "title": "هل تأخّر عليك الفتح؟",
+    "duration": "1:02",
+    "aspect": "9:16",
+    "url": "https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-12.mp4"
+  },
+  {
+    "id": "thaghr-13",
+    "series": "صناعة ثغر",
+    "title": "هل بوصلتك مضبوطة؟",
+    "duration": "1:11",
+    "aspect": "9:16",
+    "url": "https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-13.mp4"
+  },
+  {
+    "id": "thaghr-14",
+    "series": "صناعة ثغر",
+    "title": "إلى أين يتّجه قطارك؟",
+    "duration": "0:54",
+    "aspect": "9:16",
+    "url": "https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-14.mp4"
+  },
+  {
+    "id": "thaghr-15",
+    "series": "صناعة ثغر",
+    "title": "اعتمد الوقت.. لا النتيجة",
+    "duration": "0:43",
+    "aspect": "9:16",
+    "url": "https://raw.githubusercontent.com/AhmedMohsen160/khamisa-reels/main/thaghr/reel-15.mp4"
   }
 ]
